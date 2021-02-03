@@ -1,0 +1,1 @@
+document.getElementById("JavaScript").innerHTML = "Hello World";
